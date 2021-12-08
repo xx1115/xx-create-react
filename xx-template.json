@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "/public/**"
+  ],
+  "installCommand": "npm install",
+  "startCommand": "npm run start",
+  "questions": []
+}

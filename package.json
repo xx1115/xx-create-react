@@ -1,7 +1,15 @@
 {
-  "name": "xx-create-react",
-  "version": "1.0.0",
+  "name": "xx-create-react-ts",
+  "version": "0.0.1",
   "description": "A react template project based on type script",
   "author": "Marvin <huo_marvin@163.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "template/.gitignore",
+    "template/src/**",
+    "template/public/**",
+    "template/tsconfig.json",
+    "xx-template.json",
+    "package.json"
+  ]
 }
